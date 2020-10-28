@@ -1,2 +1,5 @@
-#Ignoring executable
-.exe
+*.exe
+
+vscode/
+
+! .gitignore
